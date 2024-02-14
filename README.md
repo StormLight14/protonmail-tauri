@@ -1,7 +1,14 @@
-# Tauri + Vanilla TS
+# Protonmail Tauri
+I literally added one line to a file; no effort was required. 
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
+This has already been done by others, but not for the Tauri V2 beta.
 
-## Recommended IDE Setup
+## Running
+`npm i` / `bun i`
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+`npm tauri dev` / `bun tauri dev`
+
+## Building
+`npm i` / `bun i`
+
+`npm tauri build` / `bun tauri build`
