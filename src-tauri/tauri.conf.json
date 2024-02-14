@@ -1,7 +1,7 @@
 {
   "productName": "protonmail-tauri",
-  "version": "0.0.0",
-  "identifier": "com.tauri.dev",
+  "version": "1.0.0",
+  "identifier": "xyz.stormlight.protonmailtauri",
   "build": {
     "beforeDevCommand": "bun run dev",
     "devUrl": "http://localhost:1420",
