@@ -3,8 +3,10 @@ I literally added one line to a file, no effort was required. This has already b
 
 ## Running
 `npm i` / `bun i`
+
 `npm tauri dev` / `bun tauri dev`
 
 ## Building
 `npm i` / `bun i`
+
 `npm tauri build` / `bun tauri build`
